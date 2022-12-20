@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCStructure1-add new unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8c8c6f1-d7cc-441b-a7c3-a2355d56385b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e22ac9ee-9537-41a6-baf6-ba4c29c52756</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c5b0a6f-8bca-4029-be71-d1e90201f4f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9c528fd3-9256-42d6-b5c7-49dda53d32da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tester'</defaultValue>
+      <description></description>
+      <id>e22ac9ee-9537-41a6-baf6-ba4c29c52756</id>
+      <masked>false</masked>
+      <name>unit_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'IT'</defaultValue>
+      <description></description>
+      <id>8c5b0a6f-8bca-4029-be71-d1e90201f4f9</id>
+      <masked>false</masked>
+      <name>name_organization</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tester'</defaultValue>
+      <description></description>
+      <id>9c528fd3-9256-42d6-b5c7-49dda53d32da</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>
